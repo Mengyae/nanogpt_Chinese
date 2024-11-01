@@ -47,7 +47,9 @@ python generate.py --length=250 --nsamples=3 --prefix="若非如此" --temperatu
 
 ## （五）生成文本示例
 
--以下为金庸小说<<射雕英雄传>>的生成样例，[model和data](https://drive.google.com/drive/folders/1x6oRuAzYG0PZ4FRrMlSShthw-9RUDby4?usp=drive_link)单独上载到云存储服务。语料 43.2MB，Batch size 2，10层深度下训练10轮所得。
-![avatar](sample/散文1.png)
-![avatar](sample/散文2.png)
-![avatar](sample/散文3.png)
+  以下为金庸小说<<射雕英雄传>>的生成样例，[model和data](https://drive.google.com/drive/folders/1x6oRuAzYG0PZ4FRrMlSShthw-9RUDby4?usp=drive_link)单独上载到云存储服务。
+  语料 43.2MB，Batch size 2，10层深度下
+  训练10轮所得。
+![avatar](sample/jinyong_model10.jpg)
+训练100轮所得。
+![avatar](sample/jinyong_model100.jpg)
